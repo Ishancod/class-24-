@@ -1,2 +1,2 @@
-# class-24-
+# class-25-
 angry bird class inheritence
